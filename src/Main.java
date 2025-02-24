@@ -7,6 +7,10 @@ public class Main {
         System.out.println("Hello and welcome!");
 
             var dog=100;
-            System.out.println("dog = " + dog);
+            var cat=2.3;
+            var paper=76000;
+            System.out.println("dog+cat+paper = " + (dog+cat+paper));
+            var sumka = dog+cat+paper;
+            System.out.println("sumka = " + sumka);
         }
     }
